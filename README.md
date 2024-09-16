@@ -1,4 +1,4 @@
-![My Image](https://i.pinimg.com/736x/34/13/4f/34134f191accd065e085f9ec10bf78f1.jpg)
+![My Image]([https://i.pinimg.com/736x/34/13/4f/34134f191accd065e085f9ec10bf78f1.jpg](https://i.pinimg.com/originals/87/d5/b3/87d5b33980c2ae8037c95f44cb91e514.png))
 
 
 # 💫 About Me:
