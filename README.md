@@ -12,8 +12,6 @@
 # 📊 Sky's Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=foulboness&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Quotes
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=foulboness&icon=7&color=11)](https://visitcount.itsvg.in)
