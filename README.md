@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
 ![My Image](https://i.pinimg.com/originals/87/d5/b3/87d5b33980c2ae8037c95f44cb91e514.png)
 
 # 💫 About Me:
