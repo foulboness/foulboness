@@ -28,11 +28,10 @@
 <div align="center">
       <h1>Frontend</h1>
       <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        <a href="https://tailwindcss.com/" style="color: white;"> 
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/> <p>Tailwind CSS</p>
         </a>
-        <br>Tailwind CSS
-      </td>
+        Tailwind CSS
       <td align="center" style="border: none;">
         <a href="https://reactjs.org/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
