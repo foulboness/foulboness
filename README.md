@@ -64,8 +64,7 @@
   </tbody>
 </table>
 </div>
----
-      <th colspan="4" align="center" style="color: white;">Database</th>
+    <th colspan="4" align="center" style="color: white;">Database</th>
     </tr>
   </thead>
   <tbody>
