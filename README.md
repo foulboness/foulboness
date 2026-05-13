@@ -21,17 +21,49 @@
 <div align="center">
   <h2>🌐 Connect with Me</h2>
   <p>Discover my work and connect on these platforms!</p>
-  [𝙏𝙬𝙞𝙩𝙩𝙚𝙧](https://twitter.com/knotofsuffering)<br>- [𝙋𝙚𝙧𝙨𝙤𝙣𝙖𝙡 𝙒𝙚𝙗𝙨𝙞𝙩𝙚](https://chaotictrash.wixsite.com/portfolio1)<br>- [𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢](http://www.instagram.com/rottedtearstain)<br><br>
-
-## 🌐 Socials:
+  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]( https://discord.gg/33ySmprYZG ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rottedtearstain) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rottedtearstain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/knotofsuffering) 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
+<h3 align="center">Web Development</h3>
 
-![HTML5] ![JavaScript] ![C++] ![AWS] ![Azure] ![Google Cloud] ![.Net] ![NodeJS] ![WordPress]![MySQL] ![Adobe] ![Adobe Creative Cloud] ![Adobe Illustrator] ![Adobe Dreamweaver] ![Adobe Fonts] ![Adobe Photoshop]![Canva]  ![Sketch]( ![GitHub]
-
-
-
+<div align="center">
+<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
+  <thead>
+    <tr>
+      <th colspan="8" align="center" style="color: white;">Frontend</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <a href="https://tailwindcss.com/" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
+        </a>
+        <br>Tailwind CSS
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://reactjs.org/" style="color: white;">
+          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
+        </a>
+        <br>React
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
+        </a>
+        <br>HTML
+      </td>
+      <td align="center" style="border: none;">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
+          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
+        </a>
+        <br>CSS
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
 ---
 [![](https://visitcount.itsvg.in/api?id=foulboness&icon=7&color=11)](https://visitcount.itsvg.in)
 
