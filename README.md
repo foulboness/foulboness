@@ -65,8 +65,20 @@
 </table>
 </div>
 ---
+      <th colspan="4" align="center" style="color: white;">Database</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
+      </td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=foulboness&icon=7&color=11)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
