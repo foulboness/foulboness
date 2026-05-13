@@ -17,4 +17,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=foulboness&icon=7&color=11)](https://visitcount.itsvg.in)
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
