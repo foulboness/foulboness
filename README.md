@@ -25,12 +25,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)]( https://discord.gg/33ySmprYZG ) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rottedtearstain) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/rottedtearstain) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/knotofsuffering) 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-<h3 align="center">Web Development</h3>
-
 <div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
       <h1>Frontend</h1>
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
