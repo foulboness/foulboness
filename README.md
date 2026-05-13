@@ -14,12 +14,12 @@
   <p>Frontend: JavaScript, HTML, CSS, React</p>
   <p>Backend: Node.js</p>
   <p>Database: MySQL</p>
-  <p>𝚃𝚘𝚘𝚕𝚜: Git, VSCode, Notepad</p>
+  <p>Tools:Git, VSCode, Notepad</p>
   <p>Cloud: AWS, Oracle, Azure<p>
   <p>Data Scinece: Python</p>
   <p>AI tools: Chat GPT, Cluade, Perplexity</p>
   
-
+  
 
 <div align="center">
 <div align="center">
