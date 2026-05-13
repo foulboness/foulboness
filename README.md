@@ -31,11 +31,7 @@
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
+      <h1>Frontend</h1>
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
