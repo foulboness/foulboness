@@ -40,9 +40,26 @@ Tools    ✧ Git • VS Code
 Data     ✧ Python  
 AI Tools ✧ ChatGPT • Claude • Perplexity
 
-## 💖 visitingg
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=foulboness&icon=7&color=11" /> </p> <p align="center"> ✧･ﾟ: *✧･ﾟ:* thank you for visiting *:･ﾟ✧*:･ﾟ✧ </p> ``
+## 💌 Connect With Me
+
+<p align="center">
+  <a href="https://discord.gg/33ySmprYZG">
+    <img src="https://img.shields.io/badge/Discord-%23ffc1cc.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/rottedtearstain">
+    <img src="https://img.shields.io/badge/Instagram-%23ff69b4.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://pinterest.com/rottedtearstain">
+    <img src="https://img.shields.io/badge/Pinterest-%23ff9ecb.svg?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/knotofsuffering">
+    <img src="https://img.shields.io/badge/X-%23ffd1dc.svg?style=for-the-badge&logo=x&logoColor=black" />
+  </a>
+</p>`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
