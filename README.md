@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=18&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=Crafting+interfaces+from+the+void...;Where+design+meets+shadow...;Silent+systems%2C+living+code+%E2%9C%A7" />
 </p>
 
-<h2 align="center">𝙬𝙝𝙤,𝙢𝙚?</h2>
+<h2 align="center">𝐰𝐡𝐨,𝐦𝐞?</h2>
 
 <p align="center">
   𝚒 𝚋𝚞𝚒𝚕𝚍 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚜𝚑𝚊𝚙𝚎𝚍 𝚋𝚢 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚕𝚘𝚐𝚒𝚌, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚘𝚕𝚕𝚎𝚍 𝚟𝚒𝚜𝚞𝚊𝚕 𝚌𝚑𝚊𝚘𝚜 ✧
@@ -22,7 +22,7 @@
     𝚘𝚞𝚝𝚜𝚒𝚍𝚎 𝚘𝚏 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝙸 𝚛𝚎𝚏𝚒𝚗𝚎 𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌𝚜, 𝚝𝚎𝚜𝚝 𝚋𝚘𝚞𝚗𝚍𝚊𝚛𝚒𝚎𝚜 𝚘𝚏 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚜𝚝𝚛𝚞𝚌𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚝𝚑𝚊𝚝 𝚕𝚎𝚊𝚗 𝚝𝚘𝚠𝚊𝚛𝚍 𝚝𝚑𝚎 𝚞𝚗𝚌𝚘𝚗𝚟𝚎𝚗𝚝𝚒𝚘𝚗𝚊𝚕
 </p>
 
-<h2 align="center">𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 </h2>
+<h2 align="center">𝐭𝐞𝐜𝐡 𝐬𝐭𝐚𝐜𝐤</h2>
 
 **Frontend:** JavaScript • HTML • CSS • React  
 **Backend:** Node.js  
@@ -33,7 +33,7 @@
 **AI Tools:** ChatGPT • Claude • Perplexity  
 
 
-<h2 align="center">𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙢𝙚</h2>
+<h2 align="center">𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h2>
 
 <p align="center">
   <a href="https://discord.gg/33ySmprYZG">
@@ -63,7 +63,7 @@
 
 
 ---
-<h2 align="center">𝙣𝙤𝙬 𝙥𝙡𝙖𝙮𝙞𝙣𝙜</h2>
+<h2 align="center">𝐧𝐨𝐰 𝐩𝐥𝐚𝐲𝐢𝐧𝐠</h2>
 
 <p align="center">
 <p align="center">
