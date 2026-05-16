@@ -1,11 +1,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
+<h1 align="center">💗🌸 𝒮𝓀𝓎'𝓈 𝒫𝓇𝑜𝒻𝒾𝓁𝑒 🌸💗</h1>
 
 <p align="center">
   ✧･ﾟ: *✧･ﾟ:* Web Developer • Gamer • UI/UX Designer *:･ﾟ✧*:･ﾟ✧
 </p>
-
-<h1 align="center">💗🌸 𝒮𝓀𝓎'𝓈 𝒫𝓇𝑜𝒻𝒾𝓁𝑒 🌸💗</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Welcome+to+my+little+corner+of+the+internet...;Soft+pink+code+dreams+%E2%9C%A8;Building+cute+things+with+code+%F0%9F%92%BB" />
