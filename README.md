@@ -10,22 +10,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=18&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=Crafting+interfaces+from+the+void...;Where+design+meets+shadow...;Silent+systems%2C+living+code+%E2%9C%A7" />
 </p>
 
-<h2 align="center">⛧ About Me ⛧</h2>
+<h2 align="center">About Me</h2>
 
 <p align="center">
-  I build digital systems shaped by design, logic, and controlled visual chaos ✧
+  𝚒 𝚋𝚞𝚒𝚕𝚍 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚜𝚑𝚊𝚙𝚎𝚍 𝚋𝚢 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚕𝚘𝚐𝚒𝚌, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚘𝚕𝚕𝚎𝚍 𝚟𝚒𝚜𝚞𝚊𝚕 𝚌𝚑𝚊𝚘𝚜 ✧
 </p>
 
 <p align="center">
-  My focus lies in crafting web interfaces, UI structures, and experimental interactive experiences ☾
+ 𝚖𝚢 𝚏𝚘𝚌𝚞𝚜 𝚕𝚒𝚎𝚜 𝚒𝚗 𝚌𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚠𝚎𝚋 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜, 𝚄𝙸 𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜, 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚊𝚕 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 ☾
 </p>
 
 <p align="center">
-  Currently deepening my work in frontend architecture and scalable full-stack systems ⛧
+  𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚎𝚎𝚙𝚎𝚗𝚒𝚗𝚐 𝚖𝚢 𝚠𝚘𝚛𝚔 𝚒𝚗 𝚏𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝚊𝚗𝚍 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 ⋆
 </p>
 
 <p align="center">
-  Outside of development, I refine aesthetics, test boundaries of interface design, and construct projects that lean toward the unconventional ✧
+  𝚘𝚞𝚝𝚜𝚒𝚍𝚎 𝚘𝚏 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝙸 𝚛𝚎𝚏𝚒𝚗𝚎 𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌𝚜, 𝚝𝚎𝚜𝚝 𝚋𝚘𝚞𝚗𝚍𝚊𝚛𝚒𝚎𝚜 𝚘𝚏 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚜𝚝𝚛𝚞𝚌𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚝𝚑𝚊𝚝 𝚕𝚎𝚊𝚗 𝚝𝚘𝚠𝚊𝚛𝚍 𝚝𝚑𝚎 𝚞𝚗𝚌𝚘𝚗𝚟𝚎𝚗𝚝𝚒𝚘𝚗𝚊𝚕 ✧
 </p>
 
 <h2 align="center">𝘛𝘦𝘤𝘩 𝘈𝘳𝘴𝘦𝘯𝘢𝘭 </h2>
@@ -51,8 +51,6 @@
 ---
 <h2 align="center">⛧ Now Playing ⛧</h2>
 
-<p align="center">⛧ ─── ⋆⋅☾⋅⋆ ─── ⛧</p>
-
 <p align="center">
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
@@ -64,12 +62,5 @@
   <i>Soundtracks of the void — coding in rhythm and shadow.</i>
 </p>
 
-<p align="center">⛧ ─── ⋆⋅☾⋅⋆ ─── ⛧</p>
-
-
-
-<p align="center">
-  💗 Built with soft code & aesthetic energy 💗
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer" width="100%">
