@@ -2,9 +2,9 @@
 
 <h1 align="center">˗ˏˋ ♡ 𝔴𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔣𝔬𝔲𝔩𝔟𝔬𝔫𝔢𝔰𝔰  ♡ ˎˊ˗</h1>
 
-<p align="center">
-♥ Web Developer • UI/UX Designer • Creative Builder ♥
-</p>
+<h3 align="center">
+  ♥ Web Developer • UI/UX Designer • Creative Builder ♥
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=18&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=Crafting+interfaces+from+the+void...;Where+design+meets+shadow...;Silent+systems%2C+living+code+%E2%9C%A7" />
@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center">✦ Tech Stack ✦</h2>
+<h2>𝐭𝐞𝐜𝐡 𝐬𝐭𝐚𝐜𝐤</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-0f0f0f?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-0f0f0f?style=for-the-badge&logo=css3&logoColor=ffffff)
@@ -51,7 +51,7 @@
 - .NET (Web & Application Development)
 ---
 
-<h2 align="center">𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h2>
+<h2>𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h2>
 
 <p align="center">
   <a href="mailto:kiingskyart@gmail.com">
@@ -87,8 +87,6 @@
 </p>
 
 ---
-<h2 align="center">𝐧𝐨𝐰 𝐩𝐥𝐚𝐲𝐢𝐧𝐠</h2>
-
 <p align="center">
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
