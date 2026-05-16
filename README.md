@@ -3,7 +3,7 @@
 <h1 align="center">˗ˏˋ ♡ 𝔴𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔣𝔬𝔲𝔩𝔟𝔬𝔫𝔢𝔰𝔰  ♡ ˎˊ˗</h1>
 
 <p align="center">
-Wₑb Dₑᵥₑₗₒₚₑᵣ • ᵤᵢ/ᵤₓ Dₑₛᵢgₙₑᵣ • Cᵣₑₐₜᵢᵥₑ Bᵤᵢₗdₑᵣ​
+♥ Web Developer • UI/UX Designer • Creative Builder ♥
 </p>
 
 <p align="center">
