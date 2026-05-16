@@ -40,8 +40,9 @@ Tools    ✧ Git • VS Code
 Data     ✧ Python  
 AI Tools ✧ ChatGPT • Claude • Perplexity
 
+## 💖 visitingg
 
-[![](https://visitcount.itsvg.in/api?id=foulboness&icon=7&color=11)](https://visitcount.itsvg.in)
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=foulboness&icon=7&color=11" /> </p> <p align="center"> ✧･ﾟ: *✧･ﾟ:* thank you for visiting *:･ﾟ✧*:･ﾟ✧ </p> ``
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
