@@ -54,6 +54,13 @@
 <h2 align="center">𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h2>
 
 <p align="center">
+  <a href="mailto:kiingskyart@gmail.com">
+    <img src="https://img.shields.io/badge/Email-kiingskyart%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+</p>
+
+<p align="center">
   <a href="https://discord.gg/33ySmprYZG">
     <img src="https://img.shields.io/badge/Discord_Server-1a1a1a?style=for-the-badge&logo=discord&logoColor=ffffff"/>
   </a>
