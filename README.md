@@ -24,13 +24,14 @@
 
 <h2 align="center">𝐭𝐞𝐜𝐡 𝐬𝐭𝐚𝐜𝐤</h2>
 
-**Frontend:** JavaScript • HTML • CSS • React  
-**Backend:** Node.js  
-**Database:** MySQL  
-**Tools:** Git • VS Code  
-**Cloud:** AWS • Oracle Cloud • Azure  
-**Data Science:** Python  
-**AI Tools:** ChatGPT • Claude • Perplexity  
+```txt
+Frontend ✧ HTML • CSS • JavaScript • React  
+Backend  ✧ Node.js  
+Database ✧ MySQL  
+Cloud    ✧ AWS • Azure • Oracle  
+Tools    ✧ Git • VS Code  
+Data     ✧ Python  
+AI Tools ✧ ChatGPT • Claude • Perplexity
 
 
 <h2 align="center">𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h2>
