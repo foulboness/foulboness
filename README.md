@@ -66,5 +66,4 @@ AI Tools ✧ ChatGPT • Claude • Perplexity
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=110&section=footer" width="100%" />
 </p>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
