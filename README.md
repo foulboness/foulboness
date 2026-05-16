@@ -31,15 +31,15 @@
 
 ## 💖 Tech Stack
 
-```txt
 Frontend ✧ HTML • CSS • JavaScript • React  
-Backend  ✧ Node.js  
+Backend ✧ Node.js  
 Database ✧ MySQL  
-Cloud    ✧ AWS • Azure • Oracle  
-Tools    ✧ Git • VS Code  
-Data     ✧ Python  
-AI Tools ✧ ChatGPT • Claude • Perplexity
+Cloud ✧ AWS • Azure • Oracle  
+Tools ✧ Git • VS Code  
+Data ✧ Python  
+AI Tools ✧ ChatGPT • Claude • Perplexity  
 
+---
 
 ## 💌 Connect With Me
 
@@ -59,7 +59,12 @@ AI Tools ✧ ChatGPT • Claude • Perplexity
   <a href="https://x.com/knotofsuffering">
     <img src="https://img.shields.io/badge/X-%23ffd1dc.svg?style=for-the-badge&logo=x&logoColor=black" />
   </a>
-</p>`
+</p>
 
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=110&section=footer" width="100%" />
+</p>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
 
