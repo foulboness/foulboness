@@ -26,14 +26,29 @@
 
 <h2 align="center">✦ Tech Stack ✦</h2>
 
-- Frontend ✧ HTML • CSS • JavaScript • React  
-- Backend ✧ Node.js  
-- Database ✧ MySQL  
-- Cloud ✧ AWS • Azure • Oracle  
-- Tools ✧ Git • VS Code  
-- Data ✧ Python  
-- AI Tools ✧ ChatGPT • Claude • Perplexity  
-
+![HTML5](https://img.shields.io/badge/HTML5-0f0f0f?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-0f0f0f?style=for-the-badge&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f0f0f?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0f0f?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=ffffff)
+![C](https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![NodeJS](https://img.shields.io/badge/Node.js-2a0f2f?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/React-2a0f2f?style=for-the-badge&logo=react&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/MySQL-2a0f2f?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![Cisco](https://img.shields.io/badge/Cisco-1a1a1a?style=for-the-badge&logo=cisco&logoColor=ffffff)
+![Adobe](https://img.shields.io/badge/Adobe-2a0f2f?style=for-the-badge&logo=adobe&logoColor=ffffff)
+![Adobe Creative Cloud](https://img.shields.io/badge/Creative%20Cloud-2a0f2f?style=for-the-badge&logo=adobecreativecloud&logoColor=ffffff)
+![Photoshop](https://img.shields.io/badge/Photoshop-2a0f2f?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff)
+![GitHub](https://img.shields.io/badge/GitHub-0f0f0f?style=for-the-badge&logo=github&logoColor=ffffff)
+![Figma](https://img.shields.io/badge/Figma-2a0f2f?style=for-the-badge&logo=figma&logoColor=ffffff)
+![Oracle](https://img.shields.io/badge/Oracle-1a1a1a?style=for-the-badge&logo=oracle&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS%20Code-2a0f2f?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
+![Canva](https://img.shields.io/badge/Canva-2a0f2f?style=for-the-badge&logo=canva&logoColor=ffffff)
+![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-2a0f2f?style=for-the-badge&logo=figma&logoColor=ffffff)
+-  Desktop Application Development
+- Problem Solving
+- .NET (Web & Application Development)
 ---
 
 <h2 align="center">𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞</h2>
