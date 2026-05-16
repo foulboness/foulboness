@@ -57,6 +57,11 @@
   </a>
 </p>
 
+<p align="center">
+  Discord Username: <b>trashyroses</b>
+</p>
+
+
 ---
 <h2 align="center">𝙣𝙤𝙬 𝙥𝙡𝙖𝙮𝙞𝙣𝙜</h2>
 
