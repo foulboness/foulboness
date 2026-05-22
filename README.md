@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=18&pause=1000&color=4B0082&center=true&vCenter=true&width=600&lines=Crafting+interfaces+from+the+void...;Where+design+meets+shadow...;Silent+systems%2C+living+code+%E2%9C%A7" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=32&pause=1000&color=A855F7&center=true&vCenter=true&width=1200&lines=Crafting+interfaces+from+the+void...;Where+design+meets+shadow...;Silent+systems%2C+living+code+%E2%9C%A7" />
 </p>
 
 <h2 align="center">ｗｈｏ，ｍｅ？</h2>
@@ -84,5 +84,9 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer" width="100%">
