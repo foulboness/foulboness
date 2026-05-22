@@ -84,9 +84,4 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer" width="100%">
