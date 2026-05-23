@@ -83,5 +83,8 @@
   Discord Username: <b>trashyroses</b>
 </p>
 
+<p align="center">If you use, modify, or take inspiration, please give credit by tagging or mentioning my work <3 
+</p>
+  
 ---
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer" width="100%">
