@@ -43,9 +43,7 @@
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-4F2956?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 ![Canva](https://img.shields.io/badge/Canva-CEB7E1?style=for-the-badge&logo=canva&logoColor=2B1E3D)
 ![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-E5CBD8?style=for-the-badge&logo=figma&logoColor=2B1E3D)
-- Desktop Application Development
-- Problem Solving
-- .NET (Web & Application Development)
+
 ---
 
 <h2 align="center">ｃｏｎｎｅｃｔ ｗｉｔｈ ｍｅ</h2>
