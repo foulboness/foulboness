@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%">
 
-<h1 align="center">˗ˏˋ ♡ 𝔴𝔢𝔩𝔠𝔬𝔪𝔢 𝔱𝔬 𝔣𝔬𝔲𝔩𝔟𝔬𝔫𝔢𝔰𝔰  ♡ ˎˊ˗</h1>
+<h1 align="center">૮₍ ˃ ⤙ ˂ ₎ა welcome to foulboness.exe ♡</h1>
 
 <h3 align="center">
   ♥ Web Developer • UI/UX Designer • Creative Builder ♥
@@ -13,11 +13,7 @@
 <h2 align="center">ｗｈｏ，ｍｅ？</h2>
 
 <p align="center">
-  𝚒 𝚋𝚞𝚒𝚕𝚍 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚜𝚢𝚜𝚝𝚎𝚖𝚜 𝚜𝚑𝚊𝚙𝚎𝚍 𝚋𝚢 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚕𝚘𝚐𝚒𝚌, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚝𝚛𝚘𝚕𝚕𝚎𝚍 𝚟𝚒𝚜𝚞𝚊𝚕 𝚌𝚑𝚊𝚘𝚜 ✧
- 𝚖𝚢 𝚏𝚘𝚌𝚞𝚜 𝚕𝚒𝚎𝚜 𝚒𝚗 𝚌𝚛𝚊𝚏𝚝𝚒𝚗𝚐 𝚠𝚎𝚋 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜, 𝚄𝙸 𝚜𝚝𝚛𝚞𝚌𝚝𝚞𝚛𝚎𝚜, 𝚊𝚗𝚍 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚊𝚕 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜.
-𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚍𝚎𝚎𝚙𝚎𝚗𝚒𝚗𝚐 𝚖𝚢 𝚠𝚘𝚛𝚔 𝚒𝚗 𝚏𝚛𝚘𝚗𝚝𝚎𝚗𝚍 𝚊𝚛𝚌𝚑𝚒𝚝𝚎𝚌𝚝𝚞𝚛𝚎 𝚊𝚗𝚍 𝚜𝚌𝚊𝚕𝚊𝚋𝚕𝚎 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚜𝚢𝚜𝚝𝚎𝚖𝚜.
-𝚘𝚞𝚝𝚜𝚒𝚍𝚎 𝚘𝚏 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝, 𝙸 𝚛𝚎𝚏𝚒𝚗𝚎 𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌𝚜, 𝚝𝚎𝚜𝚝 𝚋𝚘𝚞𝚗𝚍𝚊𝚛𝚒𝚎𝚜 𝚘𝚏 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚊𝚗𝚍 𝚌𝚘𝚗𝚜𝚝𝚛𝚞𝚌𝚝 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚝𝚑𝚊𝚝 𝚕𝚎𝚊𝚗 𝚝𝚘𝚠𝚊𝚛𝚍 𝚝𝚑𝚎 𝚞𝚗𝚌𝚘𝚗𝚟𝚎𝚗𝚝𝚒𝚘𝚗𝚊𝚕.
-</p>
+૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა Hi, — i'm a developer and designer with a love for cute chaos, creative expression, and bringing ideas to life through code. I enjoy building websites, interfaces, and digital experiences that feel both functional and visually memorable, combining clean development practices with a strong eye for design. My work often explores the space between creativity and technology, where playful aesthetics meet thoughtful user experiences.
 
 ---
 
@@ -43,7 +39,8 @@
 ![VS%20Code](https://img.shields.io/badge/VS%20Code-4F2956?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
 ![Canva](https://img.shields.io/badge/Canva-CEB7E1?style=for-the-badge&logo=canva&logoColor=2B1E3D)
 ![UX/UI Design](https://img.shields.io/badge/UX%2FUI%20Design-E5CBD8?style=for-the-badge&logo=figma&logoColor=2B1E3D)
-
+![Netlify](https://img.shields.io/badge/Netlify-E5CBD8?style=for-the-badge&logo=netlify&logoColor=2B1E3D)
+![Vercel](https://img.shields.io/badge/Vercel-E5CBD8?style=for-the-badge&logo=vercel&logoColor=2B1E3D)
 ---
 
 <h2 align="center">ｃｏｎｎｅｃｔ ｗｉｔｈ ｍｅ</h2>
@@ -85,4 +82,9 @@
 </p>
   
 ---
+
+<p align="center">
+𝘩𝘢𝘱𝘱𝘺 𝘤𝘰𝘥𝘪𝘯𝘨, 𝘮𝘪𝘴𝘤𝘩𝘪𝘦𝘧 𝘮𝘢𝘬𝘦𝘳!
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer" width="100%">
