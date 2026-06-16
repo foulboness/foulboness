@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%">
 
-<h1 align="center">૮₍ ˃ ⤙ ˂ ₎ა welcome to foulboness.exe ♡</h1>
+<h1 align="center">foulboness.exe ♡</h1>
 
 <h3 align="center">
   ♥ Web Developer • UI/UX Designer • Creative Builder ♥
