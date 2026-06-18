@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header" width="100%">
 
-<h1 align="center">foulboness.exe ♡ </h1>
+
 <img width="1920" height="608" alt="+b20mF" src="https://github.com/user-attachments/assets/18fc6191-b8ad-4c81-af03-84d52893c655" />
 
 
