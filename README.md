@@ -79,7 +79,12 @@
   <a href="https://www.linkedin.com/in/sky-g-54349723a/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
   </a>
+
+<a href="https://medium.com/@midnightchronicles">
+  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=FFFFFF&labelColor=000000&color=000000" alt="Medium"/>
+</a>
 </p>
+
 
 <p align="center">
   Discord Username: <b>trashyroses</b>
