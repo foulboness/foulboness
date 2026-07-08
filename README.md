@@ -73,7 +73,7 @@
   </a>
 
   <a href="https://twitter.com/knotofsuffering">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=ffffff"/>
   </a>
 
   <a href="https://www.linkedin.com/in/sky-g-54349723a/?skipRedirect=true">
