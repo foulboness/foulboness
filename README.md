@@ -54,6 +54,8 @@
 ![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=ffffff)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
 ![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=ffffff)
+
+
 ---
 
 <h2 align="center">ｃｏｎｎｅｃｔ ｗｉｔｈ ｍｅ</h2>
