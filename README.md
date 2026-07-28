@@ -95,11 +95,14 @@
 
 <p align="center">If you use, modify, or take inspiration, please give credit by tagging or mentioning my work <3 
 </p>
+
+<p align="center"> More prototypes, experiments, and unfinished ideas live in my GitHub archive. </p>
   
 ---
 
 <p align="center">
 𝘩𝘢𝘱𝘱𝘺 𝘤𝘰𝘥𝘪𝘯𝘨, 𝘮𝘪𝘴𝘤𝘩𝘪𝘦𝘧 𝘮𝘢𝘬𝘦𝘳!
 </p>
+
 
 
