@@ -58,7 +58,7 @@
 
 ---
 
-<h2 align="center">ｃｏｎｎｅｃｔ ｗｉｔｈ ｍｅ</h2>
+<h2 align="center">𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦</h2>
 
 <p align="center">
   <a href="mailto:kiingskyart@gmail.com">
