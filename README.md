@@ -95,8 +95,6 @@
 
 <p align="center">If you use, modify, or take inspiration, please give credit by tagging or mentioning my work <3 
 </p>
-
-<p align="center"> More prototypes, experiments, and unfinished ideas live in my GitHub archive. </p>
   
 ---
 
