@@ -7,7 +7,6 @@
 <div align="center">
 
 **w h o , m e?**
-**inkstain@dev**
 
 </div>
 
