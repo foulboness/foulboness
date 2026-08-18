@@ -58,6 +58,84 @@
 
 ---
 
+## ── PROJECTS
+
+> Things I've built, designed, experimented with, and occasionally broken.
+
+### `01` — PALETTE ROOM
+
+**Digital Color Generator**
+
+An interactive color exploration studio for generating, editing, testing, and saving color palettes.
+
+`TypeScript` `React` `Vite` `Next.js` `Netlify`
+
+**[Live Demo →](https://color-palette-room.netlify.app/)** · **[GitHub →](https://github.com/foulboness/palette-room)**
+
+---
+
+### `02` — NEVERMORE TIME ATLAS
+
+**World Clock**
+
+Time moves differently within these walls. A dark, atmospheric world clock designed around global time zones and visual storytelling.
+
+`HTML` `CSS` `JavaScript` `Netlify`
+
+**[Live Demo →](https://sky-world-clock.netlify.app/)**
+
+---
+
+### `03` — ROSÉ STUDIO
+
+**Photo Editor**
+
+A retro-futuristic web-based image generator for creating halftone and duotone poster art.
+
+`TypeScript` `React` `Vite` `Netlify`
+
+**[Live Demo →](https://rosestudioeditor.netlify.app/)**
+
+---
+
+### `04` — MOONBERRY CAFÉ
+
+**Recipe Website**
+
+A responsive café experience designed around a clean interface, smooth navigation, and atmospheric presentation.
+
+`HTML` `CSS` `JavaScript` `Netlify`
+
+**[Live Demo →](https://moonberry-cafe.netlify.app/)**
+
+---
+
+### `05` — BLACKPRINT
+
+**Heist Crew Organizer**
+
+A Kanban board disguised as a heist case file, built to demonstrate drag-and-drop interactions, global state management, and modern React architecture.
+
+`Next.js` `TypeScript` `Zustand` `Tailwind CSS` `Vercel`
+
+**[Live Demo →](https://blackprint-heist-crew.vercel.app/)**
+
+---
+
+### `06` — SYNTAX 404
+
+**Terminal Portfolio**
+
+A portfolio inspired by Linux desktop environments and classic terminal interfaces, presented as an interactive digital workspace.
+
+`HTML` `CSS` `JavaScript` `Netlify`
+
+**[Live Demo →](https://syntax404porfolio.netlify.app/)**
+
+---
+
+
+
 <h2 align="center">𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦</h2>
 
 <p align="center">
