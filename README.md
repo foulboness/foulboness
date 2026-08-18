@@ -12,20 +12,20 @@
 
 <div align="left">
 
-𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, 𝘂𝗶/𝘂𝘅 𝗱𝗲𝘀𝗶𝗴𝗻𝗲𝗿, 𝗰𝗿𝗲𝗮𝘁𝗶𝘃𝗲 𝗯𝘂𝗶𝗹𝗱𝗲𝗿
+web developer · ui/ux designer · creative technologist
 
-𝙸'𝚖 𝚊 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚗𝚍 𝚍𝚎𝚜𝚒𝚐𝚗𝚎𝚛 𝚠𝚑𝚘 𝚎𝚗𝚓𝚘𝚢𝚜 𝚌𝚛𝚎𝚊𝚝𝚒𝚗𝚐 𝚝𝚑𝚒𝚗𝚐𝚜 𝚝𝚑𝚊𝚝 𝚎𝚡𝚒𝚜𝚝 𝚜𝚘𝚖𝚎𝚠𝚑𝚎𝚛𝚎 𝚋𝚎𝚝𝚠𝚎𝚎𝚗 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚒𝚝𝚢 𝚊𝚗𝚍 𝚌𝚘𝚍𝚎.
+I'm a developer and designer who enjoys creating things that exist somewhere between creativity and code.
 
-𝙼𝚢 𝚠𝚘𝚛𝚔 𝚛𝚎𝚟𝚘𝚕𝚟𝚎𝚜 𝚊𝚛𝚘𝚞𝚗𝚍 `𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝`, `𝚄𝙸/𝚄𝚇 𝙳𝚎𝚜𝚒𝚐𝚗`, 𝚊𝚗𝚍 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚝𝚑𝚊𝚝 𝚕𝚎𝚊𝚟𝚎 𝚊𝚗 𝚒𝚖𝚙𝚛𝚎𝚜𝚜𝚒𝚘𝚗. 𝙸 𝚕𝚘𝚟𝚎 𝚝𝚛𝚊𝚗𝚜𝚏𝚘𝚛𝚖𝚒𝚗𝚐 𝚒𝚍𝚎𝚊𝚜 𝚒𝚗𝚝𝚘 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚒𝚗𝚝𝚎𝚛𝚏𝚊𝚌𝚎𝚜, 𝚌𝚘𝚖𝚋𝚒𝚗𝚒𝚗𝚐 𝚌𝚕𝚎𝚊𝚗 𝚏𝚞𝚗𝚌𝚝𝚒𝚘𝚗𝚊𝚕𝚒𝚝𝚢 𝚠𝚒𝚝𝚑 𝚍𝚒𝚜𝚝𝚒𝚗𝚌𝚝𝚒𝚟𝚎 𝚟𝚒𝚜𝚞𝚊𝚕 𝚊𝚎𝚜𝚝𝚑𝚎𝚝𝚒𝚌𝚜.
+My work revolves around `Web Development`, `UX/UI Design` and building digital experiences that leave an impression. I love transforming ideas into interactive interfaces, combining clean functionality with distinctive visual aesthetics.
 
-𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢, 𝙸'𝚖 𝚎𝚡𝚙𝚊𝚗𝚍𝚒𝚗𝚐 𝚖𝚢 𝚜𝚔𝚒𝚕𝚕𝚜 𝚒𝚗 𝚋𝚘𝚝𝚑 𝚏𝚛𝚘𝚗𝚝-𝚎𝚗𝚍 𝚊𝚗𝚍 𝚏𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 𝚠𝚑𝚒𝚕𝚎 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚘𝚞𝚜𝚕𝚢 𝚎𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚍𝚎𝚜𝚒𝚐𝚗, 𝚋𝚛𝚊𝚗𝚍𝚒𝚗𝚐, 𝚊𝚗𝚍 𝚌𝚛𝚎𝚊𝚝𝚒𝚟𝚎 𝚝𝚎𝚌𝚑𝚗𝚘𝚕𝚘𝚐𝚒𝚎𝚜. 𝙼𝚢 𝚐𝚘𝚊𝚕 𝚒𝚜 𝚝𝚘 𝚌𝚛𝚊𝚏𝚝 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎𝚜 𝚝𝚑𝚊𝚝 𝚏𝚎𝚎𝚕 𝚒𝚗𝚝𝚎𝚗𝚝𝚒𝚘𝚗𝚊𝚕, 𝚒𝚖𝚖𝚎𝚛𝚜𝚒𝚟𝚎, 𝚊𝚗𝚍 𝚟𝚒𝚜𝚞𝚊𝚕𝚕𝚢 𝚖𝚎𝚖𝚘𝚛𝚊𝚋𝚕𝚎.
+Currently, I'm expanding my skills in both front-end and full-stack development while continuously exploring design, branding, and creative technologies. My goal is to craft experiences that feel intentional, immersive, and visually memorable.
 
 </div>
 
 </br>
 
 
-<h2 align="left">𝘵𝘦𝘤𝘩 𝘴𝘵𝘢𝘤𝘬</h2>
+<h2 align="left">tech stack</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
@@ -57,7 +57,7 @@
 
 ---
 
-<h2 align="left">𝘤𝘰𝘯𝘯𝘦𝘤𝘵 𝘸𝘪𝘵𝘩 𝘮𝘦</h2>
+<h2 align="left">connect with me</h2>
 
 <p align="left">
   <a href="mailto:kiingskyart@gmail.com">
@@ -94,7 +94,7 @@
 
 ---
 
-<h2 align="left">𝘱𝘳𝘰𝘫𝘦𝘤𝘵𝘴</h2>
+<h2 align="left">projects</h2>
 
 <br>
 
