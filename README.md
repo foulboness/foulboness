@@ -59,13 +59,13 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 
 <h2 align="left">connect with me</h2>
 
-<p align="left">
+<p align="center">
   <a href="mailto:kiingskyart@gmail.com">
     <img src="https://img.shields.io/badge/Email-kiingskyart%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   <a href="https://discord.gg/33ySmprYZG">
     <img src="https://img.shields.io/badge/Discord_Server-000000?style=for-the-badge&logo=discord&logoColor=ffffff"/>
   </a>
@@ -94,94 +94,11 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 
 ---
 
-<h2 align="left">projects</h2>
-
-<br>
-
-### `01` — PALETTE ROOM
-
-**Digital Color Generator**
-
-An interactive color exploration studio for generating, editing, testing, and saving color palettes. Built as a creative playground for experimenting with color, interaction, and visual systems.
-
-`TypeScript` `React` `Vite` `Next.js`
-
-**[Live Demo →](https://color-palette-room.netlify.app/)**
-
----
-
-### `02` — NEVERMORE TIME ATLAS
-
-**World Clock**
-
-*Time moves differently within these walls.*
-
-A dark, atmospheric world clock designed around global time zones, immersive visuals, and a slightly mysterious interface.
-
-`HTML` `CSS` `JavaScript`
-
-**[Live Demo →](https://sky-world-clock.netlify.app/)**
-
----
-
-### `03` — ROSÉ STUDIO
-
-**Photo Editor**
-
-A retro-futuristic web-based image generator for creating halftone and duotone poster artwork through an experimental visual interface.
-
-`TypeScript` `React` `Vite`
-
-**[Live Demo →](https://rosestudioeditor.netlify.app/)**
-
----
-
-### `04` — MOONBERRY CAFÉ
-
-**Recipe Website**
-
-A cozy café-inspired recipe experience focused on clean layouts, smooth navigation, visual hierarchy, and atmospheric presentation.
-
-`HTML` `CSS` `JavaScript`
-
-**[Live Demo →](https://moonberry-cafe.netlify.app/)**
-
----
-
-### `05` — BLACKPRINT
-
-**Heist Crew Organizer**
-
-A Kanban board disguised as a classified heist case file. Designed to explore drag-and-drop interactions, global state management, and modern React architecture.
-
-`Next.js` `TypeScript` `Zustand` `Tailwind CSS`
-
-**[Live Demo →](https://blackprint-heist-crew.vercel.app/)**
-
----
-
-### `06` — SYNTAX 404
-
-**Terminal Portfolio**
-
-A portfolio inspired by Linux desktop environments and classic terminal interfaces, presented as an interactive digital workspace.
-
-`HTML` `CSS` `JavaScript`
-
-**[Live Demo →](https://syntax404porfolio.netlify.app/)**
-
-<br>
-
-<p align="center">
-𝚖𝚘𝚛𝚎 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚌𝚘𝚖𝚒𝚗𝚐...𝚜𝚝𝚊𝚢 𝚌𝚞𝚛𝚒𝚘𝚞𝚜.
-</p>
-
-
----
-
 <p align="center">
 𝘩𝘢𝘱𝘱𝘺 𝘤𝘰𝘥𝘪𝘯𝘨, 𝘮𝘪𝘴𝘤𝘩𝘪𝘦𝘧 𝘮𝘢𝘬𝘦𝘳!
 </p>
 
-
+<div align="right">
+  <sub>Last updated: July 2026</sub>
+</div>
 
