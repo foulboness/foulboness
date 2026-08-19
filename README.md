@@ -10,7 +10,7 @@
 
 </div>
 
-<div align="left">
+<div align="center">
 
 web developer · ui/ux designer · creative technologist
 
