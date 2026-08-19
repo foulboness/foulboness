@@ -25,7 +25,7 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 </br>
 
 
-<h2 align="left">tech stack</h2>
+<h2 align="center">tech stack</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
