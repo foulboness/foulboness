@@ -57,7 +57,7 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 
 ---
 
-<h2 align="left">connect with me</h2>
+<h2 align="center">connect with me</h2>
 
 <p align="center">
   <a href="mailto:kiingskyart@gmail.com">
@@ -88,14 +88,14 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 </p>
 
 
-<p align="left">
+<p align="center">
   Discord Username: <b>trashyroses</b>
 </p>
 
 ---
 
 <p align="center">
-𝘩𝘢𝘱𝘱𝘺 𝘤𝘰𝘥𝘪𝘯𝘨, 𝘮𝘪𝘴𝘤𝘩𝘪𝘦𝘧 𝘮𝘢𝘬𝘦𝘳!
+happy coding, mischief maker!
 </p>
 
 <div align="right">
