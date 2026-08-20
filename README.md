@@ -99,6 +99,6 @@ happy coding, mischief maker!
 </p>
 
 <div align="right">
-  <sub>Last updated: July 2026</sub>
+  <sub>Last updated: August 2026</sub>
 </div>
 
