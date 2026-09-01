@@ -4,13 +4,13 @@
 
 <img src="https://i.pinimg.com/originals/50/01/17/5001173ba07f6fb0726fe1dca5da2673.gif" width="330" align="left">
 
-<div align="center">
+<div align="left">
 
 **w h o , m e?**
 
 </div>
 
-<div align="center">
+<div align="left">
 
 web developer · ui/ux designer · creative technologist
 
