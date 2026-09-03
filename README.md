@@ -94,11 +94,16 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 
 ---
 
-<p align="center">
-happy coding, mischief maker!
-</p>
+<div align="center">
+
+*happy coding, mischief maker! ♡*
+
+<sub>made with caffeine, curiosity & a questionable amount of CSS</sub>
+
+<br><br>
 
 <div align="right">
-  <sub>Last updated: August 2026</sub>
+<sub>Last updated: September 2026</sub>
+
 </div>
 
