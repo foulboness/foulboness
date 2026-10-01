@@ -6,8 +6,6 @@
 
 <sub>⋆｡°✩ welcome to my little corner of the internet ✩°｡⋆</sub>
 
-<br><br>
-
 `♡ creativity + code + controlled visual chaos ♡`
 
 </div>
@@ -16,7 +14,7 @@
 
 ## ୨୧ who, me?
 
-<img src="https://i.pinimg.com/originals/50/01/17/5001173ba07f6fb0726fe1dca5da2673.gif" width="250" align="right">
+<img src="https://i.pinimg.com/originals/50/01/17/5001173ba07f6fb0726fe1dca5da2673.gif" width="250" align="center">
 
 I'm a **developer + designer** who enjoys creating things somewhere between **creativity and code**.
 
