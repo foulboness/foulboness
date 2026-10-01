@@ -106,8 +106,6 @@ Currently, I'm growing my skills across **front-end and full-stack development**
 
 <sub>made with caffeine, curiosity & a questionable amount of CSS</sub>
 
-<br><br>
-
 <sub>last updated · october 2026</sub>
 
 </div>
