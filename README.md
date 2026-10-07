@@ -24,6 +24,35 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 
 </br>
 
+<h2 align="center">little things</h2>
+
+<p align="center">
+  <sub>small facts, questionable habits & tiny obsessions</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <b>dark mode forever</b> · light mode is not invited
+</p>
+
+<p align="center">
+  <b>i make websites for fun</b> · and sometimes for absolutely no reason
+</p>
+
+<p align="center">
+  <b>fonts matter</b> · i will absolutely spend an hour choosing one
+</p>
+
+<p align="center">
+  <b>too many ideas</b> · never enough time to build them all
+</p>
+
+<p align="center">
+  <b>CSS is an adventure</b> · occasionally held together by vibes
+</p>
+
+<br>
 
 <h2 align="center">tech stack</h2>
 
