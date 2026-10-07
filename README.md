@@ -24,17 +24,11 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 
 </br>
 
-
-
 <div align="left">
 
 **o f f , t h e , r e c o r d**
 
 </div>
-
-<div align="left">
-
-small facts, questionable habits & tiny obsessions ♡
 
 𐙚 **dark mode forever** · light mode is not invited  
 𐙚 **i make websites for fun** · and sometimes for absolutely no reason  
