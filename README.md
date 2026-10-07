@@ -1,9 +1,7 @@
 
-
 </br>
 
 <img src="https://i.pinimg.com/originals/50/01/17/5001173ba07f6fb0726fe1dca5da2673.gif" width="330" align="left">
-
 
 <div align="left">
 
@@ -23,7 +21,7 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 
 </div>
 
-</br>
+<br clear="all">
 
 <div align="left">
 
@@ -40,6 +38,8 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 </div>
 
 </br>
+
+
 
 
 
