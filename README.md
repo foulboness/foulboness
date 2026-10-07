@@ -24,21 +24,22 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 
 </br>
 
+
 <div align="left">
 
 **o f f , t h e , r e c o r d**
 
-</div>
-
-𐙚 **dark mode forever** · light mode is not invited  
-𐙚 **i make websites for fun** · and sometimes for absolutely no reason  
-𐙚 **fonts matter** · i will absolutely spend an hour choosing one  
-𐙚 **too many ideas** · never enough time to build them all  
+𐙚 **dark mode forever** · light mode is not invited<br>
+𐙚 **i make websites for fun** · and sometimes for absolutely no reason<br>
+𐙚 **fonts matter** · i will absolutely spend an hour choosing one<br>
+𐙚 **too many ideas** · never enough time to build them all<br>
 𐙚 **CSS is an adventure** · occasionally held together by vibes
 
 </div>
 
 </br>
+
+
 
 <div align="left">
 
