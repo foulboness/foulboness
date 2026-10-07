@@ -20,15 +20,13 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 
 </div>
 
-<br clear="all">
-
 <hr>
 
 <div align="left">
 
-<b>o f f , t h e , r e c o r d</b>
+**o f f , t h e , r e c o r d**
 
-<br><br>
+</div>
 
 𐙚 <b>dark mode forever</b> · light mode is not invited<br>
 𐙚 <b>i make websites for fun</b> · and sometimes for absolutely no reason<br>
@@ -39,12 +37,6 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 </div>
 
 </br>
-
-
-
-
-
-
 
 <div align="left">
 
