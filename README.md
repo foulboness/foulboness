@@ -24,86 +24,108 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 
 </br>
 
-<h2 align="center">little things</h2>
-
-<p align="left">
-  <sub>small facts, questionable habits & tiny obsessions ♡</sub>
-</p>
-
-<p align="left">
-  𐙚 <b>dark mode forever</b> · light mode is not invited<br>
-  𐙚 <b>i make websites for fun</b> · and sometimes for absolutely no reason<br>
-  𐙚 <b>fonts matter</b> · i will absolutely spend an hour choosing one<br>
-  𐙚 <b>too many ideas</b> · never enough time to build them all<br>
-  𐙚 <b>CSS is an adventure</b> · occasionally held together by vibes
-</p>
-
-<h2 align="center">tech stack</h2>
-
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=ffffff)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff)
-![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=ffffff)
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=ffffff)
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![Cisco](https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=ffffff)
-![Oracle](https://img.shields.io/badge/Oracle-000000?style=for-the-badge&logo=oracle&logoColor=ffffff)
-![Adobe](https://img.shields.io/badge/Adobe-000000?style=for-the-badge&logo=adobe&logoColor=ffffff)
-![Creative Cloud](https://img.shields.io/badge/Creative%20Cloud-000000?style=for-the-badge&logo=adobecreativecloud&logoColor=ffffff)
-![Photoshop](https://img.shields.io/badge/Photoshop-000000?style=for-the-badge&logo=adobephotoshop&logoColor=ffffff)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=ffffff)
-![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=ffffff)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=ffffff)
-![Canva](https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=ffffff)
-![UX%2FUI%20Design](https://img.shields.io/badge/UX%2FUI%20Design-000000?style=for-the-badge&logo=figma&logoColor=ffffff)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Shell](https://img.shields.io/badge/Shell-000000?style=for-the-badge&logo=gnubash&logoColor=ffffff)
-![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=ffffff)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=ffffff)
-![Electron](https://img.shields.io/badge/Electron-000000?style=for-the-badge&logo=electron&logoColor=ffffff)
-
----
-
-<h2 align="center">connect with me</h2>
-
-<p align="center">
-  <a href="mailto:kiingskyart@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kiingskyart%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://discord.gg/33ySmprYZG">
-    <img src="https://img.shields.io/badge/Discord_Server-000000?style=for-the-badge&logo=discord&logoColor=ffffff"/>
-  </a>
-
-  <a href="http://www.instagram.com/rottedtearstain">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
-  </a>
-
-  <a href="https://pin.it/4sXU5F2i5">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=ffffff"/>
-  </a>
-
-  <a href="https://twitter.com/knotofsuffering">
-    <img src="https://img.shields.io/badge/twitter-000000?style=for-the-badge&logo=x&logoColor=ffffff"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/sky-g-54349723a/?skipRedirect=true">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
-  </a>
-</p>
 
 
-<p align="center">
-  Discord Username: <b>trashyroses</b>
-</p>
+<div align="left">
+
+**o f f , t h e , r e c o r d**
+
+</div>
+
+<div align="left">
+
+small facts, questionable habits & tiny obsessions ♡
+
+𐙚 **dark mode forever** · light mode is not invited  
+𐙚 **i make websites for fun** · and sometimes for absolutely no reason  
+𐙚 **fonts matter** · i will absolutely spend an hour choosing one  
+𐙚 **too many ideas** · never enough time to build them all  
+𐙚 **CSS is an adventure** · occasionally held together by vibes
+
+</div>
+
+</br>
+
+<div align="left">
+
+**b e h i n d , t h e , s c r e e n**
+
+</div>
+
+<div align="left">
+
+♡ <b>fuel</b> · caffeine · music · late nights · questionable ideas<br>
+♡ <b>enemies</b> · css · npm · bugs · centering divs<br>
+♡ <b>home</b> · vs code · terminal · browser devtools<br>
+♡ <b>speak</b> · html · css · javascript · typescript · python · c · java<br>
+♡ <b>ship</b> · git · github · netlify · vercel<br>
+♡ <b>create</b> · react · node.js · tailwind · electron · mysql
+
+</div>
+
+</br>
+
+<div align="left">
+
+**d i g i t a l , w o r k s**
+
+</div>
+
+<div align="left">
+
+<a href="https://color-palette-room.netlify.app/"><b>Palette Room</b></a> · color palette generator & creative tool<br>
+<a href="https://blackprint-heist-crew.vercel.app/"><b>Blackheist</b></a> · heist crew organizer & management dashboard<br>
+<a href="https://rosestudioeditor.netlify.app/"><b>Rosé Studio</b></a> · poster editor with duotone, halftone & glitch effects<br>
+<a href="https://moonberry-cafe.netlify.app/"><b>MoonBerry Café</b></a> · cute recipe website<br>
+<a href="https://her-codebook.vercel.app/"><b>Her Codebook</b></a> · personal coding reference & learning space<br>
+<a href="https://moodspace-studio.netlify.app/"><b>Moodspace Studio</b></a> · creative moodboard & visual space<br>
+<a href="https://font-lab-eight.vercel.app/"><b>Font Lab</b></a> · typography exploration tool<br>
+<a href="https://dear-future-me-theta.vercel.app/"><b>Dear Future Me</b></a> · digital letter & reflection project<br>
+<a href="https://the-newspaper-room.vercel.app/"><b>The Project Newspaper</b></a> · editorial-style project archive
+
+</div>
+
+</br>
+
+<div align="left">
+
+**l e t ' s , b e , m u t u a l s**
+
+</div>
+
+<div align="left">
+
+<a href="mailto:kiingskyart@gmail.com">
+  <img src="https://img.shields.io/badge/%20email-000000?style=for-the-badge&logo=gmail&logoColor=ffffff"/>
+</a>
+
+<a href="https://discord.gg/33ySmprYZG">
+  <img src="https://img.shields.io/badge/discord-000000?style=for-the-badge&logo=discord&logoColor=ffffff"/>
+</a>
+
+<a href="http://www.instagram.com/rottedtearstain">
+  <img src="https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=ffffff"/>
+</a>
+
+<a href="https://pin.it/4sXU5F2i5">
+  <img src="https://img.shields.io/badge/pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=ffffff"/>
+</a>
+
+<a href="https://twitter.com/knotofsuffering">
+  <img src="https://img.shields.io/badge/x-000000?style=for-the-badge&logo=x&logoColor=ffffff"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sky-g-54349723a/?skipRedirect=true">
+  <img src="https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+</a>
+
+<br>
+
+♡ <b>discord</b> · trashyroses
+
+</div>
+
+</br>
 
 ---
 
