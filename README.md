@@ -4,9 +4,10 @@
 
 <img src="https://i.pinimg.com/originals/50/01/17/5001173ba07f6fb0726fe1dca5da2673.gif" width="330" align="left">
 
+
 <div align="left">
 
-**w h o , m e?**
+<b>w h o , m e?</b>
 
 </div>
 
@@ -24,20 +25,23 @@ Currently, I'm expanding my skills in both front-end and full-stack development 
 
 </br>
 
-
 <div align="left">
 
-**o f f , t h e , r e c o r d**
+<b>o f f , t h e , r e c o r d</b>
 
-𐙚 **dark mode forever** · light mode is not invited<br>
-𐙚 **i make websites for fun** · and sometimes for absolutely no reason<br>
-𐙚 **fonts matter** · i will absolutely spend an hour choosing one<br>
-𐙚 **too many ideas** · never enough time to build them all<br>
-𐙚 **CSS is an adventure** · occasionally held together by vibes
+<br><br>
+
+𐙚 <b>dark mode forever</b> · light mode is not invited<br>
+𐙚 <b>i make websites for fun</b> · and sometimes for absolutely no reason<br>
+𐙚 <b>fonts matter</b> · i will absolutely spend an hour choosing one<br>
+𐙚 <b>too many ideas</b> · never enough time to build them all<br>
+𐙚 <b>CSS is an adventure</b> · occasionally held together by vibes
 
 </div>
 
 </br>
+
+
 
 
 
