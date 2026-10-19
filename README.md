@@ -43,7 +43,6 @@ currently, i'm growing my skills in front-end and full-stack development while e
 
 ### ୨୧ o f f , t h e , r e c o r d
 
-<blockquote>
   
 𐙚 **dark mode forever** — light mode is not invited
 
@@ -55,7 +54,6 @@ currently, i'm growing my skills in front-end and full-stack development while e
 
 𐙚 **css survivor** — held together by curiosity and questionable decisions
 
-</blockquote>
 
 ### ୨୧ b e h i n d , t h e , s c r e e n
 
@@ -112,14 +110,6 @@ currently, i'm growing my skills in front-end and full-stack development while e
 ୨୧ **[Font Lab](https://font-lab-eight.vercel.app/)**
 
 <sub>typography playground · font exploration</sub>
-
-୨୧ **[Sugar & Lace](#)**
-
-<sub>sweet, feminine digital creation</sub>
-
-୨୧ **[Petal & Pot](#)**
-
-<sub>botanical-inspired digital creation</sub>
 
 <br>
 
