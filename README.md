@@ -37,13 +37,9 @@ currently, i'm growing my skills in front-end and full-stack development while e
 
   
 𐙚 **dark mode forever** — light mode is not invited
-
 𐙚 **website hoarder** — always building something new
-
 𐙚 **font enthusiast** — choosing a typeface is a commitment
-
 𐙚 **idea collector** — 100 ideas, 3 finished projects, 97 tabs open
-
 𐙚 **css survivor** — held together by curiosity and questionable decisions
 
 
