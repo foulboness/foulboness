@@ -7,11 +7,7 @@
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=111111&height=2&section=header" width="70%">
 
-  <br>
-
-  <sub>♡ making the internet a little prettier, one project at a time ♡</sub>
 
 </div>
 
