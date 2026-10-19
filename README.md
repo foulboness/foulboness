@@ -1,13 +1,9 @@
 
 <div align="center">
 
-  <h1>୨୧ miksha's little corner of the internet ୨୧</h1>
+  <h1>୨୧ little corner of the internet ୨୧</h1>
 
   <i>web developer · ui/ux designer · creative technologist</i>
-
-  <br><br>
-
-
 
 </div>
 
@@ -147,10 +143,6 @@ currently, i'm growing my skills in front-end and full-stack development while e
 <br>
 
 <div align="center">
-
-  <sub>thanks for visiting my little corner of the internet!</sub>
-
-  <br><br>
 
   **happy coding, mischief maker! ♡**
 
