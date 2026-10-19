@@ -33,35 +33,38 @@ currently, i'm growing my skills in front-end and full-stack development while e
 
 </div>
 
-### ୨୧ o f f , t h e , r e c o r d
+<div align="left">
 
-  
-𐙚 **dark mode forever** — light mode is not invited
+**o f f , t h e , r e c o r d**
 
-𐙚 **website hoarder** — always building something new
+</div>
 
-𐙚 **font enthusiast** — choosing a typeface is a commitment
+𐙚 <b>dark mode forever</b> · light mode is not invited<br>
+𐙚 <b>i make websites for fun</b> · and sometimes for absolutely no reason<br>
+𐙚 <b>fonts matter</b> · i will absolutely spend an hour choosing one<br>
+𐙚 <b>too many ideas</b> · never enough time to build them all<br>
+𐙚 <b>CSS is an adventure</b> · occasionally held together by vibes
 
-𐙚 **idea collector** — 100 ideas, 3 finished projects, 97 tabs open
-
-𐙚 **css survivor** — held together by curiosity and questionable decisions
+</div>
 
 
-### ୨୧ b e h i n d , t h e , s c r e e n
+<div align="left">
 
-♡ **current fuel** — caffeine · music · rainy days · late nights
+**b e h i n d , t h e , s c r e e n**
 
-♡ **natural habitat** — vs code · terminal · browser devtools
+</div>
 
-♡ **languages** — html · css · javascript · typescript · python · c · java
+<div align="left">
 
-♡ **tools of the trade** — git · github · netlify · vercel
+♡ <b>fuel</b> · caffeine · music · late nights · questionable ideas<br>
+♡ <b>enemies</b> · css · npm · bugs · centering divs<br>
+♡ <b>home</b> · vs code · terminal · browser devtools<br>
+♡ <b>speak</b> · html · css · javascript · typescript · python · c · java<br>
+♡ <b>ship</b> · git · github · netlify · vercel<br>
+♡ <b>create</b> · react · node.js · tailwind · electron · mysql
 
-♡ **creative playground** — react · node.js · tailwind css · electron · mysql
+</div>
 
-♡ **interests** — web design · ui/ux · typography · digital art · creative coding
-
-<br>
 
 <div align="center">
 
@@ -148,8 +151,8 @@ currently, i'm growing my skills in front-end and full-stack development while e
 
   <br><br>
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=111111&height=2&section=footer" width="70%">
+  <div align="right">
+<sub>Last updated: October 2026</sub>
 
-  <sub>last updated · october 2026</sub>
 
 </div>
