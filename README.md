@@ -59,7 +59,7 @@ currently, i'm growing my skills in front-end and full-stack development while e
 ♡ <b>fuel</b> · caffeine · music · late nights · questionable ideas<br>
 ♡ <b>enemies</b> · css · npm · bugs · centering divs<br>
 ♡ <b>home</b> · vs code · terminal · browser devtools<br>
-♡ <b>speak</b> · html · css · javascript · typescript · python · c · java<br>
+♡ <b>speak</b> · html · css · javascript · typescript · python<br>
 ♡ <b>ship</b> · git · github · netlify · vercel<br>
 ♡ <b>create</b> · react · node.js · tailwind · electron · mysql
 
