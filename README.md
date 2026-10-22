@@ -99,8 +99,6 @@ currently, i'm growing my skills in front-end and full-stack development while e
   <img src="https://img.shields.io/badge/linkedin-171717?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<br><br>
-
 ♡ **discord:** `trashyroses`
 
 <br>
