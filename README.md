@@ -66,47 +66,7 @@ currently, i'm growing my skills in front-end and full-stack development while e
 </div>
 
 
-<div align="center">
 
-♡ ──────────── ୨୧ ──────────── ♡
-
-</div>
-
-### ୨୧ d i g i t a l , w o r k s
-
-<sub>a tiny archive of things i've made, designed, and brought to life.</sub>
-
-<br>
-
-୨୧ **[Palette Room](https://color-palette-room.netlify.app/)**
-
-<sub>color palette generator · creative tool</sub>
-
-୨୧ **[Blackheist](https://blackprint-heist-crew.vercel.app/)**
-
-<sub>heist crew organizer · management dashboard</sub>
-
-୨୧ **[Rosé Studio](https://rosestudioeditor.netlify.app/)**
-
-<sub>poster editor · duotone, halftone & glitch effects</sub>
-
-୨୧ **[MoonBerry Café](https://moonberry-cafe.netlify.app/)**
-
-<sub>cute recipe website · sweet little things</sub>
-
-୨୧ **[Her Codebook](https://her-codebook.vercel.app/)**
-
-<sub>personal coding reference · learning space</sub>
-
-୨୧ **[Moodspace Studio](https://moodspace-studio.netlify.app/)**
-
-<sub>creative moodboards · visual inspiration</sub>
-
-୨୧ **[Font Lab](https://font-lab-eight.vercel.app/)**
-
-<sub>typography playground · font exploration</sub>
-
-<br>
 
 <div align="center">
 
