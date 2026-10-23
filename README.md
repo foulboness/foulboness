@@ -1,28 +1,22 @@
  <div align="center">
 
-# ୨୧ little corner of the internet ୨୧
+# welcome to foulboness
 
 *web developer · ui/ux designer · creative technologist*
-
-*building things for the web, one little idea at a time ♡*
 
 </div>
 
 ---
 
-### ୨୧ who, me?
-
-hello, internet stranger! ♡
+hii, i'm sky! ♡
 
 i'm a web developer and ui/ux designer who loves turning ideas into thoughtful, interactive digital experiences. i'm drawn to the little details — typography, layouts, visual identities, and interfaces that balance functionality with aesthetics.
 
-currently exploring front-end and full-stack development, experimenting with new technologies, and building projects simply because an idea wouldn't leave my head.
-
-**my philosophy:** the details matter. the pixels matter. and yes, i'm probably still choosing a font.
+*probably still choosing a font right now.*
 
 ---
 
-### ୨୧ off the record
+### little things
 
 - 𐙚 **dark mode forever** — light mode is not invited
 - 𐙚 **font enthusiast** — one hour choosing a font is perfectly reasonable
@@ -32,38 +26,26 @@ currently exploring front-end and full-stack development, experimenting with new
 
 ---
 
-### ୨୧ behind the screen
+### toolkit
 
-| | |
-|:--|:--|
-| ♡ **fuel** | caffeine · music · late nights |
-| ♡ **home** | vs code · terminal · devtools |
-| ♡ **languages** | html · css · javascript · typescript · python |
-| ♡ **frameworks & tools** | react · node.js · tailwind · electron |
-| ♡ **database** | mysql |
-| ♡ **ship with** | git · github · netlify · vercel |
+- ♡ **languages:** html · css · javascript · typescript · python
+- ♡ **frameworks & tools:** react · node.js · tailwind · electron
+- ♡ **database:** mysql
+- ♡ **ship with:** git · github · netlify · vercel
 
 ---
 
-### ୨୧ let's be mutuals
+### let's be mutuals
 
 *found something interesting? come say hi ♡*
 
-<div align="center">
+<div align="left">
 
-<a href="mailto:kiingskyart@gmail.com"><img src="https://img.shields.io/badge/email-242424?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://discord.gg/33ySmprYZG"><img src="https://img.shields.io/badge/discord-242424?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://www.instagram.com/rottedtearstain"><img src="https://img.shields.io/badge/instagram-242424?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://pin.it/4sXU5F2i5"><img src="https://img.shields.io/badge/pinterest-242424?style=flat-square&logo=pinterest&logoColor=white" alt="Pinterest"></a>
-<a href="https://twitter.com/knotofsuffering"><img src="https://img.shields.io/badge/x-242424?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-<a href="https://www.linkedin.com/in/sky-g-54349723a/"><img src="https://img.shields.io/badge/linkedin-242424?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:kiingskyart@gmail.com">email</a> | <a href="https://discord.gg/33ySmprYZG">discord</a> | <a href="https://www.instagram.com/rottedtearstain">instagram</a>
+<a href="https://pin.it/4sXU5F2i5">pinterest</a> | <a href="https://twitter.com/knotofsuffering">twitter</a> | <a href="https://www.linkedin.com/in/sky-g-54349723a/">linkedin</a>
 
 **discord:** `trashyroses`
 
-<br>
-
 *happy coding, mischief maker! ♡*
-
-<sub>last updated · october 2026</sub>
 
 </div>
