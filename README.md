@@ -9,7 +9,7 @@ i'm drawn to the little details — typography, layouts, visual identities, and 
 
 ♡ email  → <a href="mailto:kiingskyart@gmail.com">kiingskyart@gmail.com</a><br>
 ♡ discord → <a href="https://discord.gg/33ySmprYZG">discord.gg/33ySmprYZG</a><br>
-♡ instagram → <a href="https://www.instagram.com/rottedtearstain">rottedtearstain</a><br>
+♡ instagram → <a href="https://www.instagram.com/rottedtearstain">@rottedtearstain</a><br>
 ♡ twitter → <a href="https://twitter.com/knotofsuffering">@knotofsuffering</a><br>
 ♡ linkedin → <a href="https://www.linkedin.com/in/sky-g-54349723a/">sky g</a>
 
