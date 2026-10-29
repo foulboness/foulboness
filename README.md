@@ -34,9 +34,9 @@ i'm drawn to the little details — typography, layouts, visual identities, and 
 
 ### featured projects ♡
 
-● Blackheist<br>
-  ✦ A tactical crew organizer for planning heists, coordinating teams, and managing operations.<br>
-  ✦  Links: https://blackprint-heist-crew.vercel.app<br>
+● Octohealth<br>
+  ✦ A responsive healthcare billing review interface designed to help users navigate and review hospital billing information with ease.<br>
+  ✦  Links: https://octohealth.vercel.app/<br>
 
   ●  **Palette Room**<br>
   ✦ A color palette generator for discovering and exploring beautiful color combinations.<br>
@@ -48,7 +48,7 @@ i'm drawn to the little details — typography, layouts, visual identities, and 
 
   ● **Moodspace Studio**<br>
   ✦ A moodboard-inspired concept for collecting visual inspiration and creative ideas.<br>
-  ✦ Links: Coming soon ♡<br>
+  ✦ Links: https://moodspace-studio.netlify.app/<br>
 
   ● **Font Lab**<br>
   ✦ A typography playground for experimenting with fonts and typographic styles.<br>
@@ -56,7 +56,7 @@ i'm drawn to the little details — typography, layouts, visual identities, and 
 
   ● **Frog Economy**<br>
   ✦ A frog-themed browser game featuring playful lily-pad gameplay.<br>
-  ✦ Links: Coming soon ♡<br>
+  ✦ Links: https://frog-economy.vercel.app/<br>
 
   ● **Mochi Pomodoro App**<br>
   ✦ A cute desktop productivity timer designed to make focused work sessions feel sweeter.<br>
