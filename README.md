@@ -25,10 +25,10 @@ i'm drawn to the little details — typography, layouts, visual identities, and 
 
 ### toolkit
 
-♡ languages:　          HTML, CSS, JavaScript, TypeScript, Python<br>
-♡ frameworks:　          React, Node.js, Tailwind CSS, Electron<br>
-♡ database:　           MySQL<br>
-♡ ship with:　          Git, GitHub, Netlify, Vercel
+♡ languages: HTML, CSS, JavaScript, TypeScript, Python<br>
+♡ frameworks: React, Node.js, Tailwind CSS, Electron<br>
+♡ database: MySQL<br>
+♡ ship with: Git, GitHub, Netlify, Vercel
 
 --------------------------<br>
 
