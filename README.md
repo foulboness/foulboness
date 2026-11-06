@@ -34,7 +34,7 @@ i'm drawn to the little details — typography, layouts, visual identities, and 
 
 ### featured projects ♡
 
-● Octohealth<br>
+● **Octohealth**<br>
   ✦ A responsive healthcare billing review interface designed to help users navigate and review hospital billing information with ease.<br>
   ✦  Links: https://octohealth.vercel.app/<br>
 
