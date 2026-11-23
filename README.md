@@ -71,6 +71,5 @@ i'm drawn to the little details — typography, layouts, visual identities, and 
   ✦ Date: 12 November 2026<br>
   ✦ Focus: Microsoft Azure, Cloud Computing, Teamwork & Problem Solving<br>
 
-made with love, caffeine & a little bit of css
 
 thanks for visiting my little corner of the internet!
